@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DialogScript xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogLineArray>
+    <DialogLine position="0">Alors ? Les recherches avancent ?</DialogLine>
+    <DialogLine position="1">Oui, nous devrions avoir accès au tombeau dans l'après midi</DialogLine>
+    <DialogLine position="1">Qu'est ce que tu vas faire en attendant ?</DialogLine>
+    <DialogLine position="0">Je vais rentrer, je ne vais pas passer l'aprèm à vous regarder bosser</DialogLine>
+  </DialogLineArray>
+</DialogScript>
